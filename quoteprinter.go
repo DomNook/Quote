@@ -1,7 +1,7 @@
 package main
 
-import "/myquote"
+import "github.com/DomNook/Quotetest/myquote"
 
-func Print() {
+func main() {
 	myquote.PrintAllQuotes()
 }
