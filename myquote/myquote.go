@@ -1,4 +1,4 @@
-package main
+package myquote
 
 //import needed packages.
 //fmt for printing output and of course
@@ -10,7 +10,7 @@ import (
 )
 
 //main function that prints the text from underlying functions
-func main() {
+func PrintAllQuotes() {
 	fmt.Println(PrintGlass())
 	fmt.Println(PrintGo())
 	fmt.Println(PrintHello())
