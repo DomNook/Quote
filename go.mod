@@ -1,4 +1,4 @@
-module Quote
+module github.com/DomNook/Quotetest
 
 go 1.17
 
